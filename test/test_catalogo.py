@@ -6,7 +6,7 @@ from utils.logger import logger
 from page.login_page import LoginPage
 from page.catalogo_page import CatalogPage
 
-PRODUCTS = read_json_products("data/data_login.json")
+PRODUCTS = read_json_products("data/products.json")
 
 @pytest.fixture
 def logged_user(driver):

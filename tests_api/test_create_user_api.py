@@ -11,7 +11,7 @@ HEADERS = {"X-API-KEY": API_KEY}
 @pytest.mark.api
 def test_create_user():
     logger.info("Creando un nuevo usuario a través de la API")
-    payload = {'name': 'Axel QA', 'job': 'Automation Tester'}
+    payload = {'name': 'Argenis', 'job': 'Automation Tester'}
     r = requests.post(CREATE_URL, json=payload, headers=HEADERS)
 
     logger.info("Verificando la respuesta de la API")
@@ -19,7 +19,7 @@ def test_create_user():
     body = r.json()
 
     logger.info("Verificando la información del nuevo usuario")
-    assert body["name"] == "Axel QA"
+    assert body["name"] == "Argenis"
     assert "id" in body
     assert "createdAt" in body
 

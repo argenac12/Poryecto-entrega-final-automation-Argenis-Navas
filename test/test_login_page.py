@@ -5,7 +5,7 @@ from page.login_page import LoginPage
 from utils.data_setup import read_csv_login
 from utils.logger import logger
 
-LOGIN_CASES = read_csv_login("data/data_login.csv")
+LOGIN_CASES = read_csv_login("data/login.csv")
 
 @pytest.mark.ui
 @pytest.mark.parametrize("username, password, must_pass, description", LOGIN_CASES)

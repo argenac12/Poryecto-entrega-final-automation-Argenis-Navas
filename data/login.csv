@@ -1,0 +1,4 @@
+username,password,must_pass,description
+standard_user,secret_sauce,True,Login correcto
+locked_out_user,secret_sauce,False,Usuario bloqueado
+problem_user,secret_sauce,True,Usuario con problemas visuales

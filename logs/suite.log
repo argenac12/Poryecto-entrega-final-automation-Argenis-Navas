@@ -70,3 +70,774 @@
 [20:05:05] [INFO] - Get LATEST chromedriver version for google-chrome
 [20:05:05] [INFO] - Driver [C:\Users\Argenis Navas\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
 [20:05:06] [INFO] - Cerrando driver
+[22:21:05] [INFO] - Iniciando driver
+[22:21:05] [INFO] - ====== WebDriver manager ======
+[22:21:05] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:21:06] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:21:06] [INFO] - Driver [C:\Users\Argenis Navas\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+[22:21:07] [INFO] - Login con standard_user
+[22:21:07] [INFO] - Abriendo la página de login
+[22:21:07] [INFO] - Abriendo la URL: https://www.saucedemo.com/
+[22:21:08] [INFO] - Iniciando sesión con el usuario: standard_user
+[22:21:08] [INFO] - Escribiendo en ('id', 'user-name'): standard_user
+[22:21:08] [INFO] - Buscando: ('id', 'user-name')
+[22:21:08] [INFO] - Escribiendo en ('id', 'password'): secret_sauce
+[22:21:08] [INFO] - Buscando: ('id', 'password')
+[22:21:08] [INFO] - Click en: ('id', 'login-button')
+[22:21:08] [INFO] - Verificando que la página de login se haya cargado
+[22:21:08] [INFO] - Esperando que la URL contenga: /inventory.html
+[22:21:08] [INFO] - Login exitoso
+[22:21:08] [INFO] - Buscando producto: Sauce Labs Backpack
+[22:21:08] [INFO] - Obteniendo todos los productos
+[22:21:08] [INFO] - Buscando todos los elementos: ('class name', 'inventory_item')
+[22:21:08] [INFO] - Verificando el producto: Sauce Labs Backpack si encuentre en la lista
+[22:21:08] [INFO] - Cerrando driver
+[22:21:10] [INFO] - Iniciando driver
+[22:21:10] [INFO] - ====== WebDriver manager ======
+[22:21:11] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:21:11] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:21:12] [INFO] - Driver [C:\Users\Argenis Navas\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+[22:21:13] [INFO] - Login con standard_user
+[22:21:13] [INFO] - Abriendo la página de login
+[22:21:13] [INFO] - Abriendo la URL: https://www.saucedemo.com/
+[22:21:13] [INFO] - Iniciando sesión con el usuario: standard_user
+[22:21:13] [INFO] - Escribiendo en ('id', 'user-name'): standard_user
+[22:21:13] [INFO] - Buscando: ('id', 'user-name')
+[22:21:13] [INFO] - Escribiendo en ('id', 'password'): secret_sauce
+[22:21:13] [INFO] - Buscando: ('id', 'password')
+[22:21:13] [INFO] - Click en: ('id', 'login-button')
+[22:21:13] [INFO] - Verificando que la página de login se haya cargado
+[22:21:13] [INFO] - Esperando que la URL contenga: /inventory.html
+[22:21:13] [INFO] - Login exitoso
+[22:21:13] [INFO] - Buscando producto: Sauce Labs Bike Light
+[22:21:13] [INFO] - Obteniendo todos los productos
+[22:21:13] [INFO] - Buscando todos los elementos: ('class name', 'inventory_item')
+[22:21:13] [INFO] - Verificando el producto: Sauce Labs Bike Light si encuentre en la lista
+[22:21:13] [INFO] - Cerrando driver
+[22:21:15] [INFO] - Iniciando driver
+[22:21:15] [INFO] - ====== WebDriver manager ======
+[22:21:16] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:21:17] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:21:17] [INFO] - Driver [C:\Users\Argenis Navas\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+[22:21:18] [INFO] - Login con standard_user
+[22:21:18] [INFO] - Abriendo la página de login
+[22:21:18] [INFO] - Abriendo la URL: https://www.saucedemo.com/
+[22:21:18] [INFO] - Iniciando sesión con el usuario: standard_user
+[22:21:18] [INFO] - Escribiendo en ('id', 'user-name'): standard_user
+[22:21:18] [INFO] - Buscando: ('id', 'user-name')
+[22:21:18] [INFO] - Escribiendo en ('id', 'password'): secret_sauce
+[22:21:18] [INFO] - Buscando: ('id', 'password')
+[22:21:18] [INFO] - Click en: ('id', 'login-button')
+[22:21:19] [INFO] - Verificando que la página de login se haya cargado
+[22:21:19] [INFO] - Esperando que la URL contenga: /inventory.html
+[22:21:19] [INFO] - Login exitoso
+[22:21:19] [INFO] - Buscando producto: Sauce Labs Bolt T-Shirt
+[22:21:19] [INFO] - Obteniendo todos los productos
+[22:21:19] [INFO] - Buscando todos los elementos: ('class name', 'inventory_item')
+[22:21:19] [INFO] - Verificando el producto: Sauce Labs Bolt T-Shirt si encuentre en la lista
+[22:21:19] [INFO] - Cerrando driver
+[22:21:21] [INFO] - Iniciando driver
+[22:21:21] [INFO] - ====== WebDriver manager ======
+[22:21:22] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:21:22] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:21:22] [INFO] - Driver [C:\Users\Argenis Navas\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+[22:21:23] [INFO] - Logueándose con standard_user
+[22:21:23] [INFO] - Abriendo la página de login
+[22:21:23] [INFO] - Abriendo la URL: https://www.saucedemo.com/
+[22:21:23] [INFO] - Iniciando sesión con el usuario: standard_user
+[22:21:23] [INFO] - Escribiendo en ('id', 'user-name'): standard_user
+[22:21:23] [INFO] - Buscando: ('id', 'user-name')
+[22:21:24] [INFO] - Escribiendo en ('id', 'password'): secret_sauce
+[22:21:24] [INFO] - Buscando: ('id', 'password')
+[22:21:24] [INFO] - Click en: ('id', 'login-button')
+[22:21:24] [INFO] - Verificando que la página de login se haya cargado
+[22:21:24] [INFO] - Esperando que la URL contenga: /inventory.html
+[22:21:24] [INFO] - Login exitoso
+[22:21:24] [INFO] - Seleccionando el primer producto del catálogo
+[22:21:24] [INFO] - Obteniendo todos los productos
+[22:21:24] [INFO] - Buscando todos los elementos: ('class name', 'inventory_item')
+[22:21:24] [INFO] - Verificando que la página de producto se haya cargado
+[22:21:24] [INFO] - Esperando que la URL contenga: /inventory-item.html
+[22:21:24] [INFO] - Agregando el producto al carrito
+[22:21:24] [INFO] - Agregando el producto al carrito
+[22:21:24] [INFO] - Click en: ('id', 'add-to-cart')
+[22:21:24] [INFO] - Obteniendo el badge del carrito
+[22:21:24] [INFO] - Obteniendo el texto de: ('class name', 'shopping_cart_badge')
+[22:21:24] [INFO] - Navegando al carrito de compras
+[22:21:24] [INFO] - Navegando al carrito de compras
+[22:21:24] [INFO] - Click en: ('class name', 'shopping_cart_link')
+[22:21:24] [INFO] - Verificando que la página de carrito se haya cargado
+[22:21:24] [INFO] - Esperando que la URL contenga: /cart.html
+[22:21:24] [INFO] - Verificando que se haya agregado el producto al carrito
+[22:21:24] [INFO] - Obteniendo los elementos del carrito
+[22:21:24] [INFO] - Buscando todos los elementos: ('class name', 'cart_item')
+[22:21:24] [INFO] - Obteniendo el nombre del primer elemento del carrito
+[22:21:24] [INFO] - Obteniendo los elementos del carrito
+[22:21:24] [INFO] - Buscando todos los elementos: ('class name', 'cart_item')
+[22:21:24] [INFO] - Obteniendo la cantidad del primer elemento del carrito
+[22:21:24] [INFO] - Obteniendo los elementos del carrito
+[22:21:24] [INFO] - Buscando todos los elementos: ('class name', 'cart_item')
+[22:21:24] [INFO] - Iniciando el proceso de checkout
+[22:21:24] [INFO] - Obteniendo el texto del botón de checkout
+[22:21:24] [INFO] - Obteniendo el texto de: ('id', 'checkout')
+[22:21:24] [INFO] - Navegando a la página de checkout
+[22:21:24] [INFO] - Navegando a la página de checkout
+[22:21:24] [INFO] - Click en: ('id', 'checkout')
+[22:21:24] [INFO] - Verificando que la página de checkout step-one se haya cargado
+[22:21:24] [INFO] - Esperando que la URL contenga: /checkout-step-one.html
+[22:21:24] [INFO] - Completando el formulario de checkout
+[22:21:24] [INFO] - Llenando formulario de checkout
+[22:21:24] [INFO] - Escribiendo en ('id', 'first-name'): Jollie
+[22:21:24] [INFO] - Buscando: ('id', 'first-name')
+[22:21:24] [INFO] - Escribiendo en ('id', 'last-name'): Ollie
+[22:21:24] [INFO] - Buscando: ('id', 'last-name')
+[22:21:24] [INFO] - Escribiendo en ('id', 'postal-code'): 69420
+[22:21:24] [INFO] - Buscando: ('id', 'postal-code')
+[22:21:24] [INFO] - Click en: ('id', 'continue')
+[22:21:24] [INFO] - Verificando que la página de checkout step-two se haya cargado
+[22:21:24] [INFO] - Esperando que la URL contenga: /checkout-step-two.html
+[22:21:24] [INFO] - Finalizando el proceso de checkout
+[22:21:24] [INFO] - Finalizando el checkout
+[22:21:24] [INFO] - Click en: ('id', 'finish')
+[22:21:25] [INFO] - Verificando que la página de checkout complete se haya cargado
+[22:21:25] [INFO] - Esperando que la URL contenga: /checkout-complete.html
+[22:21:25] [INFO] - Verificando que el checkout se haya completado exitosamente
+[22:21:25] [INFO] - Obteniendo el texto del encabezado de completado
+[22:21:25] [INFO] - Obteniendo el texto de: ('class name', 'complete-header')
+[22:21:25] [INFO] - Cerrando driver
+[22:21:27] [INFO] - Iniciando driver
+[22:21:27] [INFO] - ====== WebDriver manager ======
+[22:21:27] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:21:28] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:21:28] [INFO] - Driver [C:\Users\Argenis Navas\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+[22:21:29] [INFO] - Ejecutando caso de prueba: Login correcto
+[22:21:29] [INFO] - Abriendo la página de login
+[22:21:29] [INFO] - Abriendo la URL: https://www.saucedemo.com/
+[22:21:29] [INFO] - Iniciando sesión con el usuario: standard_user
+[22:21:29] [INFO] - Escribiendo en ('id', 'user-name'): standard_user
+[22:21:29] [INFO] - Buscando: ('id', 'user-name')
+[22:21:30] [INFO] - Escribiendo en ('id', 'password'): secret_sauce
+[22:21:30] [INFO] - Buscando: ('id', 'password')
+[22:21:30] [INFO] - Click en: ('id', 'login-button')
+[22:21:30] [INFO] - Verificando login exitoso
+[22:21:30] [INFO] - Obteniendo el texto de: ('class name', 'title')
+[22:21:30] [INFO] - Cerrando driver
+[22:21:32] [INFO] - Iniciando driver
+[22:21:32] [INFO] - ====== WebDriver manager ======
+[22:21:33] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:21:33] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:21:33] [INFO] - Driver [C:\Users\Argenis Navas\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+[22:21:34] [INFO] - Ejecutando caso de prueba: Usuario bloqueado
+[22:21:34] [INFO] - Abriendo la página de login
+[22:21:34] [INFO] - Abriendo la URL: https://www.saucedemo.com/
+[22:21:35] [INFO] - Iniciando sesión con el usuario: locked_out_user
+[22:21:35] [INFO] - Escribiendo en ('id', 'user-name'): locked_out_user
+[22:21:35] [INFO] - Buscando: ('id', 'user-name')
+[22:21:35] [INFO] - Escribiendo en ('id', 'password'): secret_sauce
+[22:21:35] [INFO] - Buscando: ('id', 'password')
+[22:21:35] [INFO] - Click en: ('id', 'login-button')
+[22:21:35] [INFO] - Verificando mensaje de error por login fallido
+[22:21:35] [INFO] - Obteniendo el texto de: ('class name', 'error-message-container')
+[22:21:35] [INFO] - Cerrando driver
+[22:21:37] [INFO] - Iniciando driver
+[22:21:37] [INFO] - ====== WebDriver manager ======
+[22:21:38] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:21:38] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:21:38] [INFO] - Driver [C:\Users\Argenis Navas\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+[22:21:39] [INFO] - Ejecutando caso de prueba: Usuario con problemas visuales
+[22:21:39] [INFO] - Abriendo la página de login
+[22:21:39] [INFO] - Abriendo la URL: https://www.saucedemo.com/
+[22:21:40] [INFO] - Iniciando sesión con el usuario: problem_user
+[22:21:40] [INFO] - Escribiendo en ('id', 'user-name'): problem_user
+[22:21:40] [INFO] - Buscando: ('id', 'user-name')
+[22:21:40] [INFO] - Escribiendo en ('id', 'password'): secret_sauce
+[22:21:40] [INFO] - Buscando: ('id', 'password')
+[22:21:40] [INFO] - Click en: ('id', 'login-button')
+[22:21:40] [INFO] - Verificando login exitoso
+[22:21:40] [INFO] - Obteniendo el texto de: ('class name', 'title')
+[22:21:40] [INFO] - Cerrando driver
+[22:21:42] [INFO] - Iniciando driver
+[22:21:42] [INFO] - ====== WebDriver manager ======
+[22:21:43] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:21:43] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:21:44] [INFO] - Driver [C:\Users\Argenis Navas\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+[22:21:45] [INFO] - Logueándose con standard_user
+[22:21:45] [INFO] - Abriendo la página de login
+[22:21:45] [INFO] - Abriendo la URL: https://www.saucedemo.com/
+[22:21:45] [INFO] - Iniciando sesión con el usuario: standard_user
+[22:21:45] [INFO] - Escribiendo en ('id', 'user-name'): standard_user
+[22:21:45] [INFO] - Buscando: ('id', 'user-name')
+[22:21:45] [INFO] - Escribiendo en ('id', 'password'): secret_sauce
+[22:21:45] [INFO] - Buscando: ('id', 'password')
+[22:21:45] [INFO] - Click en: ('id', 'login-button')
+[22:21:45] [INFO] - Verificando que la página de login se haya cargado
+[22:21:45] [INFO] - Esperando que la URL contenga: /inventory.html
+[22:21:45] [INFO] - Login exitoso
+[22:21:45] [INFO] - Buscando el primer producto del catálogo
+[22:21:45] [INFO] - Obteniendo todos los productos
+[22:21:45] [INFO] - Buscando todos los elementos: ('class name', 'inventory_item')
+[22:21:45] [INFO] - Seleccionando el primer producto del catálogo
+[22:21:45] [INFO] - Verificando que la página de producto se haya cargado
+[22:21:45] [INFO] - Esperando que la URL contenga: /inventory-item.html
+[22:21:45] [INFO] - Agregando el producto al carrito
+[22:21:45] [INFO] - Agregando el producto al carrito
+[22:21:45] [INFO] - Click en: ('id', 'add-to-cart')
+[22:21:45] [INFO] - Obteniendo el badge del carrito
+[22:21:45] [INFO] - Obteniendo el texto de: ('class name', 'shopping_cart_badge')
+[22:21:45] [INFO] - Navegando al carrito de compras
+[22:21:45] [INFO] - Navegando al carrito de compras
+[22:21:45] [INFO] - Click en: ('class name', 'shopping_cart_link')
+[22:21:45] [INFO] - Verificando que la página de carrito se haya cargado
+[22:21:45] [INFO] - Esperando que la URL contenga: /cart.html
+[22:21:45] [INFO] - Verificando que se haya agregado el producto al carrito
+[22:21:45] [INFO] - Obteniendo los elementos del carrito
+[22:21:45] [INFO] - Buscando todos los elementos: ('class name', 'cart_item')
+[22:21:45] [INFO] - Obteniendo el nombre del primer elemento del carrito
+[22:21:45] [INFO] - Obteniendo los elementos del carrito
+[22:21:45] [INFO] - Buscando todos los elementos: ('class name', 'cart_item')
+[22:21:45] [INFO] - Obteniendo la cantidad del primer elemento del carrito
+[22:21:45] [INFO] - Obteniendo los elementos del carrito
+[22:21:45] [INFO] - Buscando todos los elementos: ('class name', 'cart_item')
+[22:21:45] [INFO] - Verificar existencia del texto Checkout en el carrito
+[22:21:45] [INFO] - Obteniendo el texto del botón de checkout
+[22:21:45] [INFO] - Obteniendo el texto de: ('id', 'checkout')
+[22:21:45] [INFO] - Cerrando driver
+[22:21:48] [INFO] - Creando un nuevo usuario a través de la API
+[22:21:48] [INFO] - Verificando la respuesta de la API
+[22:21:48] [INFO] - Verificando la información del nuevo usuario
+[22:21:48] [INFO] - Verificando que la fecha de creación sea la actual
+[22:21:48] [INFO] - Creando un nuevo post a través de la API
+[22:21:49] [INFO] - Verificando la respuesta de la API
+[22:21:49] [INFO] - Actualizando el post creado a través de la API
+[22:21:49] [INFO] - Verificando la respuesta de la API después del patch
+[22:21:49] [INFO] - Eliminando el post creado a través de la API
+[22:21:50] [INFO] - Verificando la respuesta de la API después del delete
+[22:21:50] [INFO] - Verificando que el post haya sido eliminado
+[22:21:50] [INFO] - Probando login API con email: eve.holt@reqres.in y password: cityslicka
+[22:21:50] [INFO] - Verificando que el status code sea 200
+[22:21:50] [INFO] - Verificando que el token esté presente en la respuesta
+[22:21:50] [INFO] - Probando login API con email: eve.holt@reqres.in y password: <empty>
+[22:21:51] [INFO] - Verificando que el status code sea 400
+[22:21:51] [INFO] - Obteniendo la lista de usuarios de la página 1 a través de la API
+[22:21:51] [INFO] - Verificando la respuesta de la API
+[22:21:51] [INFO] - Verificando el contenido de la respuesta
+[22:21:51] [INFO] - Verificando el usuario con ID: 1
+[22:21:51] [INFO] - Verificando el usuario con ID: 2
+[22:21:51] [INFO] - Verificando el usuario con ID: 3
+[22:21:51] [INFO] - Verificando el usuario con ID: 4
+[22:21:51] [INFO] - Verificando el usuario con ID: 5
+[22:21:51] [INFO] - Verificando el usuario con ID: 6
+[22:27:29] [INFO] - Iniciando driver
+[22:27:29] [INFO] - ====== WebDriver manager ======
+[22:27:30] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:27:30] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:27:30] [INFO] - Driver [C:\Users\Argenis Navas\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+[22:27:31] [INFO] - Login con standard_user
+[22:27:31] [INFO] - Abriendo la página de login
+[22:27:31] [INFO] - Abriendo la URL: https://www.saucedemo.com/
+[22:27:32] [INFO] - Iniciando sesión con el usuario: standard_user
+[22:27:32] [INFO] - Escribiendo en ('id', 'user-name'): standard_user
+[22:27:32] [INFO] - Buscando: ('id', 'user-name')
+[22:27:32] [INFO] - Escribiendo en ('id', 'password'): secret_sauce
+[22:27:32] [INFO] - Buscando: ('id', 'password')
+[22:27:32] [INFO] - Click en: ('id', 'login-button')
+[22:27:32] [INFO] - Verificando que la página de login se haya cargado
+[22:27:32] [INFO] - Esperando que la URL contenga: /inventory.html
+[22:27:32] [INFO] - Login exitoso
+[22:27:32] [INFO] - Buscando producto: Sauce Labs Backpack
+[22:27:32] [INFO] - Obteniendo todos los productos
+[22:27:32] [INFO] - Buscando todos los elementos: ('class name', 'inventory_item')
+[22:27:32] [INFO] - Verificando el producto: Sauce Labs Backpack si encuentre en la lista
+[22:27:32] [INFO] - Cerrando driver
+[22:27:34] [INFO] - Iniciando driver
+[22:27:34] [INFO] - ====== WebDriver manager ======
+[22:27:35] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:27:35] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:27:35] [INFO] - Driver [C:\Users\Argenis Navas\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+[22:27:37] [INFO] - Login con standard_user
+[22:27:37] [INFO] - Abriendo la página de login
+[22:27:37] [INFO] - Abriendo la URL: https://www.saucedemo.com/
+[22:27:37] [INFO] - Iniciando sesión con el usuario: standard_user
+[22:27:37] [INFO] - Escribiendo en ('id', 'user-name'): standard_user
+[22:27:37] [INFO] - Buscando: ('id', 'user-name')
+[22:27:37] [INFO] - Escribiendo en ('id', 'password'): secret_sauce
+[22:27:37] [INFO] - Buscando: ('id', 'password')
+[22:27:37] [INFO] - Click en: ('id', 'login-button')
+[22:27:37] [INFO] - Verificando que la página de login se haya cargado
+[22:27:37] [INFO] - Esperando que la URL contenga: /inventory.html
+[22:27:37] [INFO] - Login exitoso
+[22:27:37] [INFO] - Buscando producto: Sauce Labs Bike Light
+[22:27:37] [INFO] - Obteniendo todos los productos
+[22:27:37] [INFO] - Buscando todos los elementos: ('class name', 'inventory_item')
+[22:27:37] [INFO] - Verificando el producto: Sauce Labs Bike Light si encuentre en la lista
+[22:27:37] [INFO] - Cerrando driver
+[22:27:39] [INFO] - Iniciando driver
+[22:27:39] [INFO] - ====== WebDriver manager ======
+[22:27:40] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:27:40] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:27:41] [INFO] - Driver [C:\Users\Argenis Navas\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+[22:27:42] [INFO] - Login con standard_user
+[22:27:42] [INFO] - Abriendo la página de login
+[22:27:42] [INFO] - Abriendo la URL: https://www.saucedemo.com/
+[22:27:42] [INFO] - Iniciando sesión con el usuario: standard_user
+[22:27:42] [INFO] - Escribiendo en ('id', 'user-name'): standard_user
+[22:27:42] [INFO] - Buscando: ('id', 'user-name')
+[22:27:42] [INFO] - Escribiendo en ('id', 'password'): secret_sauce
+[22:27:42] [INFO] - Buscando: ('id', 'password')
+[22:27:42] [INFO] - Click en: ('id', 'login-button')
+[22:27:42] [INFO] - Verificando que la página de login se haya cargado
+[22:27:42] [INFO] - Esperando que la URL contenga: /inventory.html
+[22:27:42] [INFO] - Login exitoso
+[22:27:42] [INFO] - Buscando producto: Sauce Labs Bolt T-Shirt
+[22:27:42] [INFO] - Obteniendo todos los productos
+[22:27:42] [INFO] - Buscando todos los elementos: ('class name', 'inventory_item')
+[22:27:42] [INFO] - Verificando el producto: Sauce Labs Bolt T-Shirt si encuentre en la lista
+[22:27:42] [INFO] - Cerrando driver
+[22:27:45] [INFO] - Iniciando driver
+[22:27:45] [INFO] - ====== WebDriver manager ======
+[22:27:45] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:27:46] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:27:46] [INFO] - Driver [C:\Users\Argenis Navas\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+[22:27:47] [INFO] - Logueándose con standard_user
+[22:27:47] [INFO] - Abriendo la página de login
+[22:27:47] [INFO] - Abriendo la URL: https://www.saucedemo.com/
+[22:27:47] [INFO] - Iniciando sesión con el usuario: standard_user
+[22:27:47] [INFO] - Escribiendo en ('id', 'user-name'): standard_user
+[22:27:47] [INFO] - Buscando: ('id', 'user-name')
+[22:27:47] [INFO] - Escribiendo en ('id', 'password'): secret_sauce
+[22:27:47] [INFO] - Buscando: ('id', 'password')
+[22:27:47] [INFO] - Click en: ('id', 'login-button')
+[22:27:48] [INFO] - Verificando que la página de login se haya cargado
+[22:27:48] [INFO] - Esperando que la URL contenga: /inventory.html
+[22:27:48] [INFO] - Login exitoso
+[22:27:48] [INFO] - Seleccionando el primer producto del catálogo
+[22:27:48] [INFO] - Obteniendo todos los productos
+[22:27:48] [INFO] - Buscando todos los elementos: ('class name', 'inventory_item')
+[22:27:48] [INFO] - Verificando que la página de producto se haya cargado
+[22:27:48] [INFO] - Esperando que la URL contenga: /inventory-item.html
+[22:27:48] [INFO] - Agregando el producto al carrito
+[22:27:48] [INFO] - Agregando el producto al carrito
+[22:27:48] [INFO] - Click en: ('id', 'add-to-cart')
+[22:27:48] [INFO] - Obteniendo el badge del carrito
+[22:27:48] [INFO] - Obteniendo el texto de: ('class name', 'shopping_cart_badge')
+[22:27:48] [INFO] - Navegando al carrito de compras
+[22:27:48] [INFO] - Navegando al carrito de compras
+[22:27:48] [INFO] - Click en: ('class name', 'shopping_cart_link')
+[22:27:48] [INFO] - Verificando que la página de carrito se haya cargado
+[22:27:48] [INFO] - Esperando que la URL contenga: /cart.html
+[22:27:48] [INFO] - Verificando que se haya agregado el producto al carrito
+[22:27:48] [INFO] - Obteniendo los elementos del carrito
+[22:27:48] [INFO] - Buscando todos los elementos: ('class name', 'cart_item')
+[22:27:48] [INFO] - Obteniendo el nombre del primer elemento del carrito
+[22:27:48] [INFO] - Obteniendo los elementos del carrito
+[22:27:48] [INFO] - Buscando todos los elementos: ('class name', 'cart_item')
+[22:27:48] [INFO] - Obteniendo la cantidad del primer elemento del carrito
+[22:27:48] [INFO] - Obteniendo los elementos del carrito
+[22:27:48] [INFO] - Buscando todos los elementos: ('class name', 'cart_item')
+[22:27:48] [INFO] - Iniciando el proceso de checkout
+[22:27:48] [INFO] - Obteniendo el texto del botón de checkout
+[22:27:48] [INFO] - Obteniendo el texto de: ('id', 'checkout')
+[22:27:48] [INFO] - Navegando a la página de checkout
+[22:27:48] [INFO] - Navegando a la página de checkout
+[22:27:48] [INFO] - Click en: ('id', 'checkout')
+[22:27:48] [INFO] - Verificando que la página de checkout step-one se haya cargado
+[22:27:48] [INFO] - Esperando que la URL contenga: /checkout-step-one.html
+[22:27:48] [INFO] - Completando el formulario de checkout
+[22:27:48] [INFO] - Llenando formulario de checkout
+[22:27:48] [INFO] - Escribiendo en ('id', 'first-name'): Jollie
+[22:27:48] [INFO] - Buscando: ('id', 'first-name')
+[22:27:48] [INFO] - Escribiendo en ('id', 'last-name'): Ollie
+[22:27:48] [INFO] - Buscando: ('id', 'last-name')
+[22:27:48] [INFO] - Escribiendo en ('id', 'postal-code'): 69420
+[22:27:48] [INFO] - Buscando: ('id', 'postal-code')
+[22:27:48] [INFO] - Click en: ('id', 'continue')
+[22:27:48] [INFO] - Verificando que la página de checkout step-two se haya cargado
+[22:27:48] [INFO] - Esperando que la URL contenga: /checkout-step-two.html
+[22:27:48] [INFO] - Finalizando el proceso de checkout
+[22:27:48] [INFO] - Finalizando el checkout
+[22:27:48] [INFO] - Click en: ('id', 'finish')
+[22:27:48] [INFO] - Verificando que la página de checkout complete se haya cargado
+[22:27:48] [INFO] - Esperando que la URL contenga: /checkout-complete.html
+[22:27:48] [INFO] - Verificando que el checkout se haya completado exitosamente
+[22:27:48] [INFO] - Obteniendo el texto del encabezado de completado
+[22:27:48] [INFO] - Obteniendo el texto de: ('class name', 'complete-header')
+[22:27:48] [INFO] - Cerrando driver
+[22:27:50] [INFO] - Iniciando driver
+[22:27:50] [INFO] - ====== WebDriver manager ======
+[22:27:51] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:27:51] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:27:52] [INFO] - Driver [C:\Users\Argenis Navas\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+[22:27:53] [INFO] - Ejecutando caso de prueba: Login correcto
+[22:27:53] [INFO] - Abriendo la página de login
+[22:27:53] [INFO] - Abriendo la URL: https://www.saucedemo.com/
+[22:27:53] [INFO] - Iniciando sesión con el usuario: standard_user
+[22:27:53] [INFO] - Escribiendo en ('id', 'user-name'): standard_user
+[22:27:53] [INFO] - Buscando: ('id', 'user-name')
+[22:27:53] [INFO] - Escribiendo en ('id', 'password'): secret_sauce
+[22:27:53] [INFO] - Buscando: ('id', 'password')
+[22:27:53] [INFO] - Click en: ('id', 'login-button')
+[22:27:53] [INFO] - Verificando login exitoso
+[22:27:53] [INFO] - Obteniendo el texto de: ('class name', 'title')
+[22:27:53] [INFO] - Cerrando driver
+[22:27:56] [INFO] - Iniciando driver
+[22:27:56] [INFO] - ====== WebDriver manager ======
+[22:27:56] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:27:57] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:27:57] [INFO] - Driver [C:\Users\Argenis Navas\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+[22:27:58] [INFO] - Ejecutando caso de prueba: Usuario bloqueado
+[22:27:58] [INFO] - Abriendo la página de login
+[22:27:58] [INFO] - Abriendo la URL: https://www.saucedemo.com/
+[22:27:58] [INFO] - Iniciando sesión con el usuario: locked_out_user
+[22:27:58] [INFO] - Escribiendo en ('id', 'user-name'): locked_out_user
+[22:27:58] [INFO] - Buscando: ('id', 'user-name')
+[22:27:58] [INFO] - Escribiendo en ('id', 'password'): secret_sauce
+[22:27:58] [INFO] - Buscando: ('id', 'password')
+[22:27:58] [INFO] - Click en: ('id', 'login-button')
+[22:27:59] [INFO] - Verificando mensaje de error por login fallido
+[22:27:59] [INFO] - Obteniendo el texto de: ('class name', 'error-message-container')
+[22:27:59] [INFO] - Cerrando driver
+[22:28:01] [INFO] - Iniciando driver
+[22:28:01] [INFO] - ====== WebDriver manager ======
+[22:28:01] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:28:02] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:28:02] [INFO] - Driver [C:\Users\Argenis Navas\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+[22:28:03] [INFO] - Ejecutando caso de prueba: Usuario con problemas visuales
+[22:28:03] [INFO] - Abriendo la página de login
+[22:28:03] [INFO] - Abriendo la URL: https://www.saucedemo.com/
+[22:28:03] [INFO] - Iniciando sesión con el usuario: problem_user
+[22:28:03] [INFO] - Escribiendo en ('id', 'user-name'): problem_user
+[22:28:03] [INFO] - Buscando: ('id', 'user-name')
+[22:28:03] [INFO] - Escribiendo en ('id', 'password'): secret_sauce
+[22:28:03] [INFO] - Buscando: ('id', 'password')
+[22:28:04] [INFO] - Click en: ('id', 'login-button')
+[22:28:04] [INFO] - Verificando login exitoso
+[22:28:04] [INFO] - Obteniendo el texto de: ('class name', 'title')
+[22:28:04] [INFO] - Cerrando driver
+[22:28:06] [INFO] - Iniciando driver
+[22:28:06] [INFO] - ====== WebDriver manager ======
+[22:28:07] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:28:07] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:28:07] [INFO] - Driver [C:\Users\Argenis Navas\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+[22:28:08] [INFO] - Logueándose con standard_user
+[22:28:08] [INFO] - Abriendo la página de login
+[22:28:08] [INFO] - Abriendo la URL: https://www.saucedemo.com/
+[22:28:08] [INFO] - Iniciando sesión con el usuario: standard_user
+[22:28:08] [INFO] - Escribiendo en ('id', 'user-name'): standard_user
+[22:28:08] [INFO] - Buscando: ('id', 'user-name')
+[22:28:09] [INFO] - Escribiendo en ('id', 'password'): secret_sauce
+[22:28:09] [INFO] - Buscando: ('id', 'password')
+[22:28:09] [INFO] - Click en: ('id', 'login-button')
+[22:28:09] [INFO] - Verificando que la página de login se haya cargado
+[22:28:09] [INFO] - Esperando que la URL contenga: /inventory.html
+[22:28:09] [INFO] - Login exitoso
+[22:28:09] [INFO] - Buscando el primer producto del catálogo
+[22:28:09] [INFO] - Obteniendo todos los productos
+[22:28:09] [INFO] - Buscando todos los elementos: ('class name', 'inventory_item')
+[22:28:09] [INFO] - Seleccionando el primer producto del catálogo
+[22:28:09] [INFO] - Verificando que la página de producto se haya cargado
+[22:28:09] [INFO] - Esperando que la URL contenga: /inventory-item.html
+[22:28:09] [INFO] - Agregando el producto al carrito
+[22:28:09] [INFO] - Agregando el producto al carrito
+[22:28:09] [INFO] - Click en: ('id', 'add-to-cart')
+[22:28:09] [INFO] - Obteniendo el badge del carrito
+[22:28:09] [INFO] - Obteniendo el texto de: ('class name', 'shopping_cart_badge')
+[22:28:09] [INFO] - Navegando al carrito de compras
+[22:28:09] [INFO] - Navegando al carrito de compras
+[22:28:09] [INFO] - Click en: ('class name', 'shopping_cart_link')
+[22:28:09] [INFO] - Verificando que la página de carrito se haya cargado
+[22:28:09] [INFO] - Esperando que la URL contenga: /cart.html
+[22:28:09] [INFO] - Verificando que se haya agregado el producto al carrito
+[22:28:09] [INFO] - Obteniendo los elementos del carrito
+[22:28:09] [INFO] - Buscando todos los elementos: ('class name', 'cart_item')
+[22:28:09] [INFO] - Obteniendo el nombre del primer elemento del carrito
+[22:28:09] [INFO] - Obteniendo los elementos del carrito
+[22:28:09] [INFO] - Buscando todos los elementos: ('class name', 'cart_item')
+[22:28:09] [INFO] - Obteniendo la cantidad del primer elemento del carrito
+[22:28:09] [INFO] - Obteniendo los elementos del carrito
+[22:28:09] [INFO] - Buscando todos los elementos: ('class name', 'cart_item')
+[22:28:09] [INFO] - Verificar existencia del texto Checkout en el carrito
+[22:28:09] [INFO] - Obteniendo el texto del botón de checkout
+[22:28:09] [INFO] - Obteniendo el texto de: ('id', 'checkout')
+[22:28:09] [INFO] - Cerrando driver
+[22:28:11] [INFO] - Creando un nuevo usuario a través de la API
+[22:28:12] [INFO] - Verificando la respuesta de la API
+[22:28:12] [INFO] - Verificando la información del nuevo usuario
+[22:28:12] [INFO] - Verificando que la fecha de creación sea la actual
+[22:28:12] [INFO] - Creando un nuevo post a través de la API
+[22:28:12] [INFO] - Verificando la respuesta de la API
+[22:28:12] [INFO] - Actualizando el post creado a través de la API
+[22:28:13] [INFO] - Verificando la respuesta de la API después del patch
+[22:28:13] [INFO] - Eliminando el post creado a través de la API
+[22:28:13] [INFO] - Verificando la respuesta de la API después del delete
+[22:28:13] [INFO] - Verificando que el post haya sido eliminado
+[22:28:13] [INFO] - Probando login API con email: eve.holt@reqres.in y password: cityslicka
+[22:28:14] [INFO] - Verificando que el status code sea 200
+[22:28:14] [INFO] - Verificando que el token esté presente en la respuesta
+[22:28:14] [INFO] - Probando login API con email: eve.holt@reqres.in y password: <empty>
+[22:28:15] [INFO] - Verificando que el status code sea 400
+[22:28:15] [INFO] - Obteniendo la lista de usuarios de la página 1 a través de la API
+[22:28:15] [INFO] - Verificando la respuesta de la API
+[22:28:15] [INFO] - Verificando el contenido de la respuesta
+[22:28:15] [INFO] - Verificando el usuario con ID: 1
+[22:28:15] [INFO] - Verificando el usuario con ID: 2
+[22:28:15] [INFO] - Verificando el usuario con ID: 3
+[22:28:15] [INFO] - Verificando el usuario con ID: 4
+[22:28:15] [INFO] - Verificando el usuario con ID: 5
+[22:28:15] [INFO] - Verificando el usuario con ID: 6
+[22:47:25] [INFO] - Iniciando driver
+[22:47:25] [INFO] - ====== WebDriver manager ======
+[22:47:26] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:47:26] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:47:26] [INFO] - Driver [C:\Users\Argenis Navas\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+[22:47:27] [INFO] - Login con standard_user
+[22:47:27] [INFO] - Abriendo la página de login
+[22:47:27] [INFO] - Abriendo la URL: https://www.saucedemo.com/
+[22:47:28] [INFO] - Iniciando sesión con el usuario: standard_user
+[22:47:28] [INFO] - Escribiendo en ('id', 'user-name'): standard_user
+[22:47:28] [INFO] - Buscando: ('id', 'user-name')
+[22:47:28] [INFO] - Escribiendo en ('id', 'password'): secret_sauce
+[22:47:28] [INFO] - Buscando: ('id', 'password')
+[22:47:28] [INFO] - Click en: ('id', 'login-button')
+[22:47:28] [INFO] - Verificando que la página de login se haya cargado
+[22:47:28] [INFO] - Esperando que la URL contenga: /inventory.html
+[22:47:28] [INFO] - Login exitoso
+[22:47:28] [INFO] - Buscando producto: Sauce Labs Backpack
+[22:47:28] [INFO] - Obteniendo todos los productos
+[22:47:28] [INFO] - Buscando todos los elementos: ('class name', 'inventory_item')
+[22:47:28] [INFO] - Verificando el producto: Sauce Labs Backpack si encuentre en la lista
+[22:47:28] [INFO] - Cerrando driver
+[22:47:30] [INFO] - Iniciando driver
+[22:47:30] [INFO] - ====== WebDriver manager ======
+[22:47:31] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:47:31] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:47:32] [INFO] - Driver [C:\Users\Argenis Navas\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+[22:47:33] [INFO] - Login con standard_user
+[22:47:33] [INFO] - Abriendo la página de login
+[22:47:33] [INFO] - Abriendo la URL: https://www.saucedemo.com/
+[22:47:33] [INFO] - Iniciando sesión con el usuario: standard_user
+[22:47:33] [INFO] - Escribiendo en ('id', 'user-name'): standard_user
+[22:47:33] [INFO] - Buscando: ('id', 'user-name')
+[22:47:33] [INFO] - Escribiendo en ('id', 'password'): secret_sauce
+[22:47:33] [INFO] - Buscando: ('id', 'password')
+[22:47:33] [INFO] - Click en: ('id', 'login-button')
+[22:47:33] [INFO] - Verificando que la página de login se haya cargado
+[22:47:33] [INFO] - Esperando que la URL contenga: /inventory.html
+[22:47:33] [INFO] - Login exitoso
+[22:47:33] [INFO] - Buscando producto: Sauce Labs Bike Light
+[22:47:33] [INFO] - Obteniendo todos los productos
+[22:47:33] [INFO] - Buscando todos los elementos: ('class name', 'inventory_item')
+[22:47:33] [INFO] - Verificando el producto: Sauce Labs Bike Light si encuentre en la lista
+[22:47:33] [INFO] - Cerrando driver
+[22:47:36] [INFO] - Iniciando driver
+[22:47:36] [INFO] - ====== WebDriver manager ======
+[22:47:36] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:47:37] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:47:37] [INFO] - Driver [C:\Users\Argenis Navas\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+[22:47:38] [INFO] - Login con standard_user
+[22:47:38] [INFO] - Abriendo la página de login
+[22:47:38] [INFO] - Abriendo la URL: https://www.saucedemo.com/
+[22:47:38] [INFO] - Iniciando sesión con el usuario: standard_user
+[22:47:38] [INFO] - Escribiendo en ('id', 'user-name'): standard_user
+[22:47:38] [INFO] - Buscando: ('id', 'user-name')
+[22:47:39] [INFO] - Escribiendo en ('id', 'password'): secret_sauce
+[22:47:39] [INFO] - Buscando: ('id', 'password')
+[22:47:39] [INFO] - Click en: ('id', 'login-button')
+[22:47:39] [INFO] - Verificando que la página de login se haya cargado
+[22:47:39] [INFO] - Esperando que la URL contenga: /inventory.html
+[22:47:39] [INFO] - Login exitoso
+[22:47:39] [INFO] - Buscando producto: Sauce Labs Bolt T-Shirt
+[22:47:39] [INFO] - Obteniendo todos los productos
+[22:47:39] [INFO] - Buscando todos los elementos: ('class name', 'inventory_item')
+[22:47:39] [INFO] - Verificando el producto: Sauce Labs Bolt T-Shirt si encuentre en la lista
+[22:47:39] [INFO] - Cerrando driver
+[22:47:41] [INFO] - Iniciando driver
+[22:47:41] [INFO] - ====== WebDriver manager ======
+[22:47:42] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:47:42] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:47:42] [INFO] - Driver [C:\Users\Argenis Navas\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+[22:47:44] [INFO] - Logueándose con standard_user
+[22:47:44] [INFO] - Abriendo la página de login
+[22:47:44] [INFO] - Abriendo la URL: https://www.saucedemo.com/
+[22:47:44] [INFO] - Iniciando sesión con el usuario: standard_user
+[22:47:44] [INFO] - Escribiendo en ('id', 'user-name'): standard_user
+[22:47:44] [INFO] - Buscando: ('id', 'user-name')
+[22:47:44] [INFO] - Escribiendo en ('id', 'password'): secret_sauce
+[22:47:44] [INFO] - Buscando: ('id', 'password')
+[22:47:44] [INFO] - Click en: ('id', 'login-button')
+[22:47:44] [INFO] - Verificando que la página de login se haya cargado
+[22:47:44] [INFO] - Esperando que la URL contenga: /inventory.html
+[22:47:44] [INFO] - Login exitoso
+[22:47:44] [INFO] - Seleccionando el primer producto del catálogo
+[22:47:44] [INFO] - Obteniendo todos los productos
+[22:47:44] [INFO] - Buscando todos los elementos: ('class name', 'inventory_item')
+[22:47:44] [INFO] - Verificando que la página de producto se haya cargado
+[22:47:44] [INFO] - Esperando que la URL contenga: /inventory-item.html
+[22:47:44] [INFO] - Agregando el producto al carrito
+[22:47:44] [INFO] - Agregando el producto al carrito
+[22:47:44] [INFO] - Click en: ('id', 'add-to-cart')
+[22:47:44] [INFO] - Obteniendo el badge del carrito
+[22:47:44] [INFO] - Obteniendo el texto de: ('class name', 'shopping_cart_badge')
+[22:47:44] [INFO] - Navegando al carrito de compras
+[22:47:44] [INFO] - Navegando al carrito de compras
+[22:47:44] [INFO] - Click en: ('class name', 'shopping_cart_link')
+[22:47:45] [INFO] - Verificando que la página de carrito se haya cargado
+[22:47:45] [INFO] - Esperando que la URL contenga: /cart.html
+[22:47:45] [INFO] - Verificando que se haya agregado el producto al carrito
+[22:47:45] [INFO] - Obteniendo los elementos del carrito
+[22:47:45] [INFO] - Buscando todos los elementos: ('class name', 'cart_item')
+[22:47:45] [INFO] - Obteniendo el nombre del primer elemento del carrito
+[22:47:45] [INFO] - Obteniendo los elementos del carrito
+[22:47:45] [INFO] - Buscando todos los elementos: ('class name', 'cart_item')
+[22:47:45] [INFO] - Obteniendo la cantidad del primer elemento del carrito
+[22:47:45] [INFO] - Obteniendo los elementos del carrito
+[22:47:45] [INFO] - Buscando todos los elementos: ('class name', 'cart_item')
+[22:47:45] [INFO] - Iniciando el proceso de checkout
+[22:47:45] [INFO] - Obteniendo el texto del botón de checkout
+[22:47:45] [INFO] - Obteniendo el texto de: ('id', 'checkout')
+[22:47:45] [INFO] - Navegando a la página de checkout
+[22:47:45] [INFO] - Navegando a la página de checkout
+[22:47:45] [INFO] - Click en: ('id', 'checkout')
+[22:47:45] [INFO] - Verificando que la página de checkout step-one se haya cargado
+[22:47:45] [INFO] - Esperando que la URL contenga: /checkout-step-one.html
+[22:47:45] [INFO] - Completando el formulario de checkout
+[22:47:45] [INFO] - Llenando formulario de checkout
+[22:47:45] [INFO] - Escribiendo en ('id', 'first-name'): Jollie
+[22:47:45] [INFO] - Buscando: ('id', 'first-name')
+[22:47:45] [INFO] - Escribiendo en ('id', 'last-name'): Ollie
+[22:47:45] [INFO] - Buscando: ('id', 'last-name')
+[22:47:45] [INFO] - Escribiendo en ('id', 'postal-code'): 69420
+[22:47:45] [INFO] - Buscando: ('id', 'postal-code')
+[22:47:45] [INFO] - Click en: ('id', 'continue')
+[22:47:45] [INFO] - Verificando que la página de checkout step-two se haya cargado
+[22:47:45] [INFO] - Esperando que la URL contenga: /checkout-step-two.html
+[22:47:45] [INFO] - Finalizando el proceso de checkout
+[22:47:45] [INFO] - Finalizando el checkout
+[22:47:45] [INFO] - Click en: ('id', 'finish')
+[22:47:45] [INFO] - Verificando que la página de checkout complete se haya cargado
+[22:47:45] [INFO] - Esperando que la URL contenga: /checkout-complete.html
+[22:47:45] [INFO] - Verificando que el checkout se haya completado exitosamente
+[22:47:45] [INFO] - Obteniendo el texto del encabezado de completado
+[22:47:45] [INFO] - Obteniendo el texto de: ('class name', 'complete-header')
+[22:47:45] [INFO] - Cerrando driver
+[22:47:47] [INFO] - Iniciando driver
+[22:47:47] [INFO] - ====== WebDriver manager ======
+[22:47:48] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:47:48] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:47:49] [INFO] - Driver [C:\Users\Argenis Navas\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+[22:47:50] [INFO] - Ejecutando caso de prueba: Login correcto
+[22:47:50] [INFO] - Abriendo la página de login
+[22:47:50] [INFO] - Abriendo la URL: https://www.saucedemo.com/
+[22:47:50] [INFO] - Iniciando sesión con el usuario: standard_user
+[22:47:50] [INFO] - Escribiendo en ('id', 'user-name'): standard_user
+[22:47:50] [INFO] - Buscando: ('id', 'user-name')
+[22:47:50] [INFO] - Escribiendo en ('id', 'password'): secret_sauce
+[22:47:50] [INFO] - Buscando: ('id', 'password')
+[22:47:50] [INFO] - Click en: ('id', 'login-button')
+[22:47:50] [INFO] - Verificando login exitoso
+[22:47:50] [INFO] - Obteniendo el texto de: ('class name', 'title')
+[22:47:50] [INFO] - Cerrando driver
+[22:47:53] [INFO] - Iniciando driver
+[22:47:53] [INFO] - ====== WebDriver manager ======
+[22:47:53] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:47:54] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:47:54] [INFO] - Driver [C:\Users\Argenis Navas\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+[22:47:55] [INFO] - Ejecutando caso de prueba: Usuario bloqueado
+[22:47:55] [INFO] - Abriendo la página de login
+[22:47:55] [INFO] - Abriendo la URL: https://www.saucedemo.com/
+[22:47:55] [INFO] - Iniciando sesión con el usuario: locked_out_user
+[22:47:55] [INFO] - Escribiendo en ('id', 'user-name'): locked_out_user
+[22:47:55] [INFO] - Buscando: ('id', 'user-name')
+[22:47:56] [INFO] - Escribiendo en ('id', 'password'): secret_sauce
+[22:47:56] [INFO] - Buscando: ('id', 'password')
+[22:47:56] [INFO] - Click en: ('id', 'login-button')
+[22:47:56] [INFO] - Verificando mensaje de error por login fallido
+[22:47:56] [INFO] - Obteniendo el texto de: ('class name', 'error-message-container')
+[22:47:56] [INFO] - Cerrando driver
+[22:47:58] [INFO] - Iniciando driver
+[22:47:58] [INFO] - ====== WebDriver manager ======
+[22:47:59] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:47:59] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:47:59] [INFO] - Driver [C:\Users\Argenis Navas\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+[22:48:00] [INFO] - Ejecutando caso de prueba: Usuario con problemas visuales
+[22:48:00] [INFO] - Abriendo la página de login
+[22:48:00] [INFO] - Abriendo la URL: https://www.saucedemo.com/
+[22:48:01] [INFO] - Iniciando sesión con el usuario: problem_user
+[22:48:01] [INFO] - Escribiendo en ('id', 'user-name'): problem_user
+[22:48:01] [INFO] - Buscando: ('id', 'user-name')
+[22:48:01] [INFO] - Escribiendo en ('id', 'password'): secret_sauce
+[22:48:01] [INFO] - Buscando: ('id', 'password')
+[22:48:01] [INFO] - Click en: ('id', 'login-button')
+[22:48:01] [INFO] - Verificando login exitoso
+[22:48:01] [INFO] - Obteniendo el texto de: ('class name', 'title')
+[22:48:01] [INFO] - Cerrando driver
+[22:48:03] [INFO] - Iniciando driver
+[22:48:03] [INFO] - ====== WebDriver manager ======
+[22:48:04] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:48:04] [INFO] - Get LATEST chromedriver version for google-chrome
+[22:48:05] [INFO] - Driver [C:\Users\Argenis Navas\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/chromedriver.exe] found in cache
+[22:48:06] [INFO] - Logueándose con standard_user
+[22:48:06] [INFO] - Abriendo la página de login
+[22:48:06] [INFO] - Abriendo la URL: https://www.saucedemo.com/
+[22:48:06] [INFO] - Iniciando sesión con el usuario: standard_user
+[22:48:06] [INFO] - Escribiendo en ('id', 'user-name'): standard_user
+[22:48:06] [INFO] - Buscando: ('id', 'user-name')
+[22:48:06] [INFO] - Escribiendo en ('id', 'password'): secret_sauce
+[22:48:06] [INFO] - Buscando: ('id', 'password')
+[22:48:06] [INFO] - Click en: ('id', 'login-button')
+[22:48:06] [INFO] - Verificando que la página de login se haya cargado
+[22:48:06] [INFO] - Esperando que la URL contenga: /inventory.html
+[22:48:06] [INFO] - Login exitoso
+[22:48:06] [INFO] - Buscando el primer producto del catálogo
+[22:48:06] [INFO] - Obteniendo todos los productos
+[22:48:06] [INFO] - Buscando todos los elementos: ('class name', 'inventory_item')
+[22:48:06] [INFO] - Seleccionando el primer producto del catálogo
+[22:48:06] [INFO] - Verificando que la página de producto se haya cargado
+[22:48:06] [INFO] - Esperando que la URL contenga: /inventory-item.html
+[22:48:06] [INFO] - Agregando el producto al carrito
+[22:48:06] [INFO] - Agregando el producto al carrito
+[22:48:06] [INFO] - Click en: ('id', 'add-to-cart')
+[22:48:06] [INFO] - Obteniendo el badge del carrito
+[22:48:06] [INFO] - Obteniendo el texto de: ('class name', 'shopping_cart_badge')
+[22:48:06] [INFO] - Navegando al carrito de compras
+[22:48:06] [INFO] - Navegando al carrito de compras
+[22:48:06] [INFO] - Click en: ('class name', 'shopping_cart_link')
+[22:48:07] [INFO] - Verificando que la página de carrito se haya cargado
+[22:48:07] [INFO] - Esperando que la URL contenga: /cart.html
+[22:48:07] [INFO] - Verificando que se haya agregado el producto al carrito
+[22:48:07] [INFO] - Obteniendo los elementos del carrito
+[22:48:07] [INFO] - Buscando todos los elementos: ('class name', 'cart_item')
+[22:48:07] [INFO] - Obteniendo el nombre del primer elemento del carrito
+[22:48:07] [INFO] - Obteniendo los elementos del carrito
+[22:48:07] [INFO] - Buscando todos los elementos: ('class name', 'cart_item')
+[22:48:07] [INFO] - Obteniendo la cantidad del primer elemento del carrito
+[22:48:07] [INFO] - Obteniendo los elementos del carrito
+[22:48:07] [INFO] - Buscando todos los elementos: ('class name', 'cart_item')
+[22:48:07] [INFO] - Verificar existencia del texto Checkout en el carrito
+[22:48:07] [INFO] - Obteniendo el texto del botón de checkout
+[22:48:07] [INFO] - Obteniendo el texto de: ('id', 'checkout')
+[22:48:07] [INFO] - Cerrando driver
+[22:48:09] [INFO] - Creando un nuevo usuario a través de la API
+[22:48:10] [INFO] - Verificando la respuesta de la API
+[22:48:10] [INFO] - Verificando la información del nuevo usuario
+[22:48:10] [INFO] - Verificando que la fecha de creación sea la actual
+[22:48:10] [INFO] - Creando un nuevo post a través de la API
+[22:48:10] [INFO] - Verificando la respuesta de la API
+[22:48:10] [INFO] - Actualizando el post creado a través de la API
+[22:48:10] [INFO] - Verificando la respuesta de la API después del patch
+[22:48:10] [INFO] - Eliminando el post creado a través de la API
+[22:48:11] [INFO] - Verificando la respuesta de la API después del delete
+[22:48:11] [INFO] - Verificando que el post haya sido eliminado
+[22:48:11] [INFO] - Probando login API con email: eve.holt@reqres.in y password: cityslicka
+[22:48:12] [INFO] - Verificando que el status code sea 200
+[22:48:12] [INFO] - Verificando que el token esté presente en la respuesta
+[22:48:12] [INFO] - Probando login API con email: eve.holt@reqres.in y password: <empty>
+[22:48:12] [INFO] - Verificando que el status code sea 400
+[22:48:12] [INFO] - Obteniendo la lista de usuarios de la página 1 a través de la API
+[22:48:13] [INFO] - Verificando la respuesta de la API
+[22:48:13] [INFO] - Verificando el contenido de la respuesta
+[22:48:13] [INFO] - Verificando el usuario con ID: 1
+[22:48:13] [INFO] - Verificando el usuario con ID: 2
+[22:48:13] [INFO] - Verificando el usuario con ID: 3
+[22:48:13] [INFO] - Verificando el usuario con ID: 4
+[22:48:13] [INFO] - Verificando el usuario con ID: 5
+[22:48:13] [INFO] - Verificando el usuario con ID: 6
